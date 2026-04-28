@@ -3,3 +3,6 @@ Zebra
 Elephant
 Lions
 Tigers
+Hippo
+Deer
+Fox

@@ -6,3 +6,5 @@ Tigers
 Hippo
 Deer
 Fox
+Parrot
+Egal
